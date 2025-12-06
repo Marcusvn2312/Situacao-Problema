@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.final {
+    margin-top: 20px;
+    font-weight: bold;
+    background: #e7ffe7;
+    padding: 10px;
+    border-left: 5px solid #2ecc71;
+}
