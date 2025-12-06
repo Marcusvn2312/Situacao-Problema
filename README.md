@@ -13,11 +13,24 @@
             Ele quer saber quantos litros de gasolina precisará para completar a viagem
             e quanto gastará, sabendo que o litro da gasolina custa <strong>R$ 5,80</strong>.
         </p>
-        <p class="pergunta">
-            ● Quantos litros de gasolina João precisará para percorrer os 320 km?<br>
-            ● Quanto ele gastará no total com combustível?
+        <h2>Resolução</h2>
+        <p>
+            <strong>1) Cálculo dos litros necessários:</strong><br>
+            O carro faz 16 km por litro.<br>
+            Distância total: 320 km.<br><br>
+            Litros necessários = 320 ÷ 16 = <strong>20 litros</strong>.
+        </p>
+        <p>
+            <strong>2) Cálculo do custo total:</strong><br>
+            Preço do litro da gasolina: R$ 5,80.<br>
+            Custo total = 20 × 5,80 = <strong>R$ 116,00</strong>.
+        </p>
+        <p class="final">
+            ✔ João precisará de <strong>20 litros</strong> de gasolina.<br>
+            ✔ Ele gastará <strong>R$ 116,00</strong> com combustível.
         </p>
     </div>
 
 </body>
 </html>
+
